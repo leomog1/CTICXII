@@ -1,7 +1,9 @@
-creacion de tabla
+--creacion de tabla
+-- primer version
+-- Leonardo Mogollon
 
 ---
-segunda version
+creacion de tablas
 create table clientes (
 nombre string,
 apellidos string
